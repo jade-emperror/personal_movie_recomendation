@@ -1,0 +1,419 @@
+index,titleId,title,types,averageRating,numVotes,isAdult,startYear,runtimeMinutes,genre1,genre2,genre 3
+0,tt0029583,Sno Oyit Te cevan tvarhptsaic,alternative,7.6,180609,0,1937,83,12,10,3
+1,tt0070047,The Exorcist,imdbDisplay,8,361033,0,1973,122,13,99,99
+2,tt0073195,Jaws,imdbDisplay,8,541651,0,1975,124,1,8,99
+3,tt0075860,Munram Vakaiyana Cantippukalai Mutu,imdbDisplay,7.6,183938,0,1977,138,2,4,99
+4,tt0077760,Jagan Mohini,98,6.5,28,0,1978,163,3,99,99
+5,tt0078346,Superman,imdbDisplay,7.3,158543,0,1978,143,0,1,2
+6,tt0081283,Catarana Makkal,imdbDisplay,7.7,46756,0,1980,124,2,99,99
+7,tt0081573,Superman II,imdbDisplay,6.8,97758,0,1980,127,0,1,4
+8,tt0082971,Last Pelaiyin Reytars,imdbDisplay,8.4,879588,0,1981,115,0,1,99
+9,tt0083658,Pilet Rannar,imdbDisplay,8.1,690016,0,1982,117,0,4,8
+10,tt0083866,E.T. the Extra-Terrestrial,imdbDisplay,7.8,370282,0,1982,115,10,4,99
+11,tt0086075,Priya O Priya,98,6.9,237,0,1983,150,2,5,99
+12,tt0087332,Ghostbusters,imdbDisplay,7.8,353751,0,1984,105,0,6,3
+13,tt0087868,Saahil,98,7.5,416,0,1984,141,2,99,99
+14,tt0088128,Patinaru Melukuvarttikal,imdbDisplay,7.1,104940,0,1984,93,6,5,99
+15,tt0088247,The Terminator,imdbDisplay,8,797192,0,1984,107,0,4,99
+16,tt0088763,Back to the Future,imdbDisplay,8.5,1050649,0,1985,116,1,6,4
+17,tt0088847,The Breakfast Club,imdbDisplay,7.8,355372,0,1985,97,6,2,99
+18,tt0088939,The Color Purple,imdbDisplay,7.8,77892,0,1985,154,2,99,99
+19,tt0090329,Witness,imdbDisplay,7.4,85884,0,1985,112,7,2,5
+20,tt0091445,Lucas,imdbDisplay,6.9,14586,0,1986,100,6,2,5
+21,tt0093389,The Last Emperor,imdbDisplay,7.7,93746,0,1987,163,16,2,17
+22,tt0093603,Nayagan,98,8.6,16065,0,1987,145,7,2,99
+24,tt0093748,"Vimanankal, Rayilkal Marrum Attomopailkal",imdbDisplay,7.6,123996,0,1987,93,6,2,99
+25,tt0093773,Predator,imdbDisplay,7.8,369680,0,1987,107,0,1,4
+26,tt0093870,RoboCop,imdbDisplay,7.5,231901,0,1987,102,0,7,4
+27,tt0094020,Square Dance,imdbDisplay,6,863,0,1987,112,2,5,99
+28,tt0094625,Akira,imdbDisplay,8,163759,0,1988,124,0,12,4
+29,tt0094721,Vantu Caru,imdbDisplay,7.5,262671,0,1988,92,6,3,99
+30,tt0095765,Cinema Paradiso,imdbDisplay,8.5,228876,0,1988,155,2,99,99
+31,tt0095953,Rain Man,imdbDisplay,8,470862,0,1988,133,2,99,99
+32,tt0096895,Batman,imdbDisplay,7.5,337017,0,1989,126,0,1,99
+33,tt0097416,Kathalan,98,7.2,1786,0,1994,168,0,2,5
+34,tt0097428,Ghostbusters II,imdbDisplay,6.6,182463,0,1989,108,0,6,3
+35,tt0097437,Idhayathai Thirudathe,98,8.3,2259,0,1989,150,2,5,99
+36,tt0097493,Heathers,imdbDisplay,7.2,88080,0,1989,103,6,7,99
+37,tt0099487,Edward Scissorhands,imdbDisplay,7.9,445500,0,1990,105,2,3,5
+38,tt0099785,Home Alone,imdbDisplay,7.6,480838,0,1990,103,6,10,99
+39,tt0100802,Total Recall,imdbDisplay,7.5,301025,0,1990,113,0,4,8
+40,tt0101507,Boyz n the Hood,imdbDisplay,7.8,125252,0,1991,112,7,2,99
+41,tt0103064,Terminator 2: The Judgment Day,imdbDisplay,8.5,990619,0,1991,137,0,4,99
+42,tt0103776,Batman Returns,imdbDisplay,7,273400,0,1992,126,0,7,3
+43,tt0103874,Dracula,imdbDisplay,7.4,191903,0,1992,128,13,99,99
+44,tt0107290,Jurassic Park,imdbDisplay,8.1,862535,0,1993,127,0,1,4
+45,tt0108160,Sleepless in Seattle,imdbDisplay,6.8,159704,0,1993,105,6,2,5
+46,tt0108329,Thiruda Thiruda,imdbDisplay,7.2,1179,0,1993,140,0,7,2
+47,tt0108550,Gilbert Grape,imdbDisplay,7.8,213517,0,1993,118,2,99,99
+48,tt0109206,Bandit Queen,imdbDisplay,7.6,4372,0,1994,119,16,7,2
+49,tt0111149,Shallow Grave,imdbDisplay,7.3,56673,0,1994,89,7,8,99
+50,tt0112642,Casper,imdbDisplay,6.1,120924,0,1995,100,6,10,3
+51,tt0113187,Last Godzilla,98,7,5451,0,1995,103,0,13,4
+52,tt0114069,Outbreak,imdbDisplay,6.6,119213,0,1995,127,0,2,8
+53,tt0114709,Toy Story,imdbDisplay,8.3,881709,0,1995,81,1,12,6
+54,tt0116209,The English Patient,imdbDisplay,7.4,177839,0,1996,162,2,5,9
+55,tt0116630,Indian,imdbDisplay,8.1,10580,0,1996,185,0,2,8
+56,tt0117008,Matilda,imdbDisplay,6.9,128536,0,1996,98,6,10,3
+57,tt0120338,Titanic,imdbDisplay,7.8,1039807,0,1997,194,2,5,99
+58,tt0120815,Saving Private Ryan,imdbDisplay,8.6,1227548,0,1998,169,2,9,99
+59,tt0120890,Wild Things,imdbDisplay,6.5,108092,0,1998,108,7,2,14
+60,tt0130827,Lola Ran Iyakkavum,imdbDisplay,7.6,187763,0,1998,81,7,2,8
+61,tt0140348,Maha Nadhi,98,8.5,3173,0,1994,162,7,2,99
+62,tt0140534,Sathy Leevathy,98,8.2,1219,0,1995,151,6,2,99
+63,tt0145487,Spider-Man,imdbDisplay,7.3,684744,0,2002,121,0,1,4
+64,tt0150456,Gaja,imdbDisplay,5.6,34,0,1992,103,10,99,99
+65,tt0152836,Thaalam,98,6.7,4950,0,1999,179,11,5,99
+66,tt0155257,Thappu Thalangal,98,7.7,87,0,1978,150,2,99,99
+67,tt0155664,Thavani Kanavukal,98,6.9,134,0,1984,148,2,99,99
+69,tt0155949,Pava Mannippu,98,6.6,38,0,1991,150,98,99,99
+70,tt0156690,Karunamoorthi,98,7.7,36,0,1978,160,16,2,10
+72,tt0156860,Is Education Alone Enough?,98,6.7,25,0,1962,155,6,2,99
+73,tt0156879,Pava Mannippu,98,7.1,36,0,1961,196,98,99,99
+74,tt0156940,Ratnadeepam,98,6.6,10,0,1951,150,2,5,99
+75,tt0158158,Kalam Maripochu,98,6.9,17,0,1955,211,2,99,99
+76,tt0169102,Lagaan,imdbDisplay,8.1,104467,0,2001,224,1,2,11
+77,tt0172493,"Girl, Interrupted",imdbDisplay,7.3,163513,0,1999,127,16,2,99
+78,tt0187568,Oorantha Sankaranthi,98,5.8,8,0,1983,143,98,99,99
+79,tt0213753,Kaathalar Thinam,98,6.3,574,0,1999,147,2,11,5
+80,tt0214569,Chadarangam,98,6.2,10,0,1978,150,98,99,99
+81,tt0214852,Kilipetchu Ketka Vaa,98,6.6,34,0,1993,150,98,99,99
+82,tt0214984,Neeya?,98,6.2,84,0,1979,137,2,3,11
+83,tt0215150,Sati Leelavathi,98,6.5,8,0,1936,103,2,99,99
+84,tt0215179,Sakuntalai,imdbDisplay,6.7,6,0,1940,160,2,99,99
+85,tt0215308,Varusham 16,98,7.2,85,0,1989,152,2,5,99
+86,tt0217869,Unbreakable,imdbDisplay,7.3,385389,0,2000,106,2,14,4
+87,tt0235489,Rettai Vaal Kuruvi,98,6.9,72,0,1987,150,98,99,99
+88,tt0235604,Moodu Pani,98,6.7,327,0,1980,150,7,8,99
+89,tt0235848,Udhiri Pookal,98,7.6,232,0,1979,143,2,99,99
+90,tt0241527,Harry Potter and the Philosopher's Stone,imdbDisplay,7.6,649957,0,2001,152,1,10,3
+91,tt0242572,Kandukondain Kandukondain,imdbDisplay,7.6,2540,0,2000,151,2,5,99
+92,tt0245412,Sant Thukaram,98,8.1,21,0,1963,156,98,99,99
+93,tt0245990,Kali,98,6.2,64,0,1980,150,0,2,99
+94,tt0246186,Raatshashan,98,7.3,87,0,1986,113,0,2,99
+95,tt0248428,Shiva,98,8.1,3214,0,1989,161,0,7,2
+96,tt0250567,Pillalu Techina Chalana Rajyam,98,8.2,5,0,1960,150,98,99,99
+97,tt0250803,Veerapandiya Kattabomman,imdbDisplay,7.5,190,0,1959,201,16,2,17
+98,tt0251107,Thalaivi,imdbDisplay,5.6,11,0,1997,136,2,99,99
+99,tt0251355,Pesum Padam,98,8.7,3219,0,1987,125,6,5,99
+100,tt0251690,Edhirum Pudhirum,imdbDisplay,5.5,19,0,2001,150,0,99,99
+101,tt0251834,Megha Sandesam,98,7.5,58,0,1983,151,2,11,99
+102,tt0254149,Athma,98,6,18,0,1993,150,98,99,99
+105,tt0254213,Mathurkula Manikyam,98,6.6,7,0,1956,150,2,99,99
+106,tt0255289,Sirai Chaalai,98,8.4,3672,0,1996,178,0,2,17
+107,tt0256406,Bhagwan Balaji,98,8.4,48,0,1960,204,2,11,99
+108,tt0256650,Prema Pasham,98,6.9,11,0,1956,178,2,10,99
+109,tt0259324,Kalabhairavan,imdbDisplay,5.2,222658,0,2007,110,0,3,8
+110,tt0259635,Thangaikkor Geetham,imdbDisplay,4.6,7,0,1983,150,98,99,99
+111,tt0261095,Pattayilin Vetri,98,6.8,13,0,1960,150,98,99,99
+112,tt0264145,Thooya Ullam,98,7.3,23,0,1964,174,2,99,99
+113,tt0273429,Annakkili,98,7,17,0,1976,134,2,99,99
+114,tt0273450,Bhadrakali,98,6.1,13,0,1976,139,98,99,99
+115,tt0273529,Deepam,98,5.9,7,0,1977,150,98,99,99
+116,tt0274594,Kadhal Rojave,imdbDisplay,5.2,13,0,2000,150,5,99,99
+117,tt0274595,Kakai Siraginilae...,imdbDisplay,4.4,13,0,2000,150,98,99,99
+119,tt0274789,Minsara Kanavu,98,6.9,1044,0,1997,153,6,2,11
+120,tt0274792,Sattam En Kayyil,98,7,51,0,1978,150,2,99,99
+121,tt0276244,Kaadhal Kavithai,imdbDisplay,5.9,37,0,1998,145,2,5,99
+122,tt0276823,Bairavi,98,6.8,54,0,1978,150,2,99,99
+123,tt0277557,Akal Vilakku,98,6.4,5,0,1979,120,98,99,99
+124,tt0277748,Elamai Vunjaladugiradhu,98,6.9,110,0,1978,141,2,5,99
+125,tt0279266,Netrikkan,98,7.1,229,0,1981,149,2,99,99
+126,tt0283750,Jankil puk,imdbDisplay,7.6,1104,0,1989,24,1,12,10
+127,tt0286716,Hulk,imdbDisplay,5.6,250936,0,2003,138,0,4,99
+128,tt0288513,Enna Petha Raasa,98,5.2,9,0,1989,150,98,99,99
+129,tt0290937,Ashokan,98,8.4,3635,0,1992,149,0,6,99
+130,tt0307479,Solaris,imdbDisplay,6.2,78731,0,2002,99,2,14,5
+131,tt0307837,Suyamariyaadhai,alternative,6.6,126,0,1995,150,7,2,14
+132,tt0308395,Idhu Namma Aalu,imdbDisplay,7.4,76,0,1988,166,6,99,99
+133,tt0311565,Ramu Nenapana Nagarhole,98,7.6,20,0,1977,170,10,99,99
+134,tt0312859,Kannathil Muthamittal,alternative,8.4,7393,0,2002,136,0,2,9
+135,tt0313951,Yejaman,98,6.6,560,0,1993,153,2,5,99
+136,tt0314814,Ulle Veliye,imdbDisplay,5.3,12,0,1993,150,0,6,2
+137,tt0316568,Sendhooram,98,3.2,5,0,1998,150,98,99,99
+138,tt0318275,Adhsaya Piravi,98,6.9,316,0,1990,145,0,6,3
+140,tt0318605,Rajavin Parvaiyile,imdbDisplay,6.5,332,0,1995,135,2,5,99
+141,tt0318791,Unnai Vaazhthi Paadugiren,imdbDisplay,5.4,7,0,1992,123,98,99,99
+142,tt0318983,Amman Kovil Kizhakale,98,6.8,59,0,1986,141,2,99,99
+143,tt0318992,Anbulla Rajinikanth,imdbDisplay,6.3,157,0,1984,138,2,10,99
+144,tt0319061,Periya Min,imdbDisplay,8,413715,0,2003,125,1,2,3
+145,tt0319359,Enkitta Mothathe,98,6.4,9,0,1990,139,98,99,99
+146,tt0319468,Guru Sishyan,98,7.2,366,0,1988,139,0,6,99
+147,tt0320290,Pondatti Thevai,imdbDisplay,4.5,18,0,1990,148,98,99,99
+148,tt0320523,Shri Raghavendrar,98,7.1,171,0,1985,153,16,2,99
+149,tt0320602,Thalattu Padava,98,3.7,6,0,1990,150,98,99,99
+150,tt0322902,Kadalikka Neramillai,imdbDisplay,8.1,361,0,1964,159,6,5,99
+151,tt0323188,Karugkuyil Kundrathuk Kolai,98,6.6,5,0,1959,203,98,99,99
+152,tt0323454,Neeya Nanna,98,6.6,7,0,1984,120,2,99,99
+153,tt0323467,Oru Oddi Nadhiyagiradhu,98,4.7,7,0,1983,150,98,99,99
+154,tt0324977,Allaudinum Arputha Vilakkum,alternative,6.6,160,0,1979,144,1,2,3
+155,tt0331642,Rasigan,imdbDisplay,5.8,202,0,1994,140,0,5,99
+156,tt0332338,Pudhiya Paadhai,imdbDisplay,6.9,62,0,1989,115,2,99,99
+157,tt0339485,Parthale Paravasam,imdbDisplay,5.4,230,0,2001,146,6,99,99
+158,tt0353922,Mighayelinte Santhathigal,98,6.6,5,0,1994,150,98,99,99
+159,tt0360717,King Kong,imdbDisplay,7.2,388906,0,2005,187,0,1,2
+160,tt0364647,Sandiyar,working,8.3,4416,0,2004,175,0,2,8
+161,tt0368400,Vaali,imdbDisplay,7.9,2165,0,1999,158,5,8,99
+162,tt0370032,Supergirl4,imdbDisplay,4.5,79263,0,2006,88,0,4,99
+163,tt0370280,Andaman Kadali,98,6.2,18,0,1977,150,98,99,99
+164,tt0373074,Mirattal Adi,imdbDisplay,7.7,126619,0,2004,99,0,6,3
+165,tt0375571,Aayutha Ezhuthu,98,7.8,3316,0,2004,160,0,2,8
+166,tt0376127,Anniyan,imdbDisplay,8.2,14309,0,2005,181,0,2,8
+167,tt0378647,Ramanaa,alternative,8.2,1806,0,2002,140,0,2,99
+168,tt0385928,Panchathantiram,imdbDisplay,8.1,3069,0,2002,150,6,2,99
+169,tt0389712,Aayiram Thalai Vaangi Apoorva Chintamani,imdbDisplay,7.1,12,0,1947,150,98,99,99
+170,tt0390376,Pop Corn,imdbDisplay,3.8,44,0,2003,126,98,99,99
+171,tt0390685,Mayavi,alternative,6.9,60,0,1997,150,3,99,99
+172,tt0407304,Ulakaṅkaḷiṉ pōr,imdbDisplay,6.5,414245,0,2005,116,1,4,8
+173,tt0417011,Nerrukku Ner,imdbDisplay,7.1,1201,0,1997,178,0,2,5
+174,tt0422689,Madhurey,98,4.4,1309,0,2004,145,0,99,99
+175,tt0422934,Perazhagan,imdbDisplay,6.4,1076,0,2004,143,6,2,5
+176,tt0447382,Kudaikul Mazhai,imdbDisplay,6.6,29,0,2005,120,98,99,99
+177,tt0455578,Kana Kandaen,98,6.6,317,0,2005,146,5,8,99
+178,tt0464071,Jill Endru Oru Kaadhal,working,6.9,2577,0,2006,175,2,5,99
+179,tt0468569,Iravu Kavalan,imdbDisplay,9,2288140,0,2008,152,0,7,2
+180,tt0479651,Dasavathaaram,98,7.2,8576,0,2008,188,0,1,4
+182,tt0482677,Inainda Kaigal,working,7,30,0,1990,150,0,5,99
+183,tt0485922,Aran,98,7.1,910,0,2006,130,0,2,9
+184,tt0764655,Moondru Mugam,imdbDisplay,7.2,363,0,1982,150,0,2,99
+185,tt0768708,Thavamai Thavamirundhu,98,7.8,482,0,2005,180,2,99,99
+186,tt0769499,Aadhi,imdbDisplay,3.8,1454,0,2006,167,0,2,8
+187,tt0779745,Mosagalluku Mosagadu,98,8.3,58,0,1971,150,1,99,99
+188,tt0782695,Manasellam,alternative,4.6,60,0,2003,150,6,99,99
+189,tt0800320,Marmadesam,imdbDisplay,5.8,269632,0,2010,106,0,1,3
+190,tt0810469,Vaanathaippola,imdbDisplay,7,231,0,2000,150,2,11,5
+191,tt0876563,Ponyo,imdbDisplay,7.7,123952,0,2008,101,1,12,6
+192,tt0881894,Attakasam,98,6.3,1144,0,2004,157,0,2,99
+194,tt0888503,Imsai Arasan 23am Pulikesi,98,7.7,1042,0,2006,142,6,99,99
+195,tt0924317,Vijayan,alternative,7.3,3463,0,2007,185,0,6,3
+196,tt0938283,Ulaga Nayagan,alternative,4,151975,0,2010,103,0,1,10
+197,tt0948462,Priyamaanavale,imdbDisplay,6.9,1128,0,2000,169,2,5,99
+198,tt0959285,Azhagiya Tamil Magan,working,4.5,2109,0,2007,171,0,2,8
+199,tt0963915,Rocket Raja,98,5.2,1520,0,2006,103,0,6,99
+200,tt10189514,சுரை பொட்ரு,imdbDisplay,8.7,51610,0,2020,153,2,99,99
+201,tt10334624,Aruvam,imdbDisplay,4.4,402,0,2019,128,6,13,99
+202,tt10438490,Creative Executive,imdbDisplay,6.7,133,0,2020,150,6,99,99
+203,tt1051252,Poovellam Un Vasam,98,6.3,712,0,2001,157,2,99,99
+204,tt10773090,Ivanukku Sariyana Aa lIllai,imdbDisplay,6,5115,0,2020,169,0,6,2
+205,tt11497592,Irandam Kuththu,imdbDisplay,2.5,451,0,2020,119,2,99,99
+206,tt11772576,Biskoth,98,4.4,346,0,2020,106,6,99,99
+207,tt11860854,Manase Namaha,alternative,9.1,144,0,2020,150,6,5,18
+208,tt1190080,Azhivin Aarambam,imdbDisplay,5.8,351717,0,2009,158,0,1,4
+209,tt1200065,Pokkiri Paiyan,alternative,4.9,869,0,2008,166,0,99,99
+210,tt1211956,Kedi Rambo Killaadi Arnold,imdbDisplay,6.7,226372,0,2013,115,0,8,99
+211,tt12144092,KAK,98,8.7,31,0,2020,79,6,5,99
+212,tt1263790,Kathala Kathala,98,7.5,1107,0,1998,142,6,2,5
+213,tt1267500,Bommayi,imdbDisplay,3.9,1248,0,2008,110,2,13,14
+214,tt1305797,Endhiran,working,7.1,24842,0,2010,155,0,4,99
+215,tt13242968,13 Aam Number Veedu,imdbDisplay,3,199,0,2020,105,13,8,99
+216,tt13507836,Kuttrame Kakka,alternative,9.1,19,0,2020,31,7,18,8
+217,tt1351685,Naran Kula Nayagan,imdbDisplay,6.2,131263,0,2013,114,1,3,99
+218,tt1365436,Ananda Thandavam,98,4.5,148,0,2009,150,5,99,99
+219,tt1365485,Marudhamalai,98,5.3,127,0,2007,165,0,99,99
+220,tt1385824,Yavarum Nalam,98,7.3,5876,0,2009,138,2,13,14
+221,tt1385973,Sattam Oru Vilayaattu,imdbDisplay,7.6,47,0,1987,150,2,5,99
+222,tt1386006,Vasantha Raagam,imdbDisplay,6.7,27,0,1986,150,2,10,11
+223,tt1388441,Mugavaree,imdbDisplay,7.2,923,0,2000,156,2,5,99
+224,tt1399615,Vallamai Tharayo,imdbDisplay,6.3,15,0,2008,126,2,99,99
+225,tt1427097,Ponnoonjal,imdbDisplay,5.2,5,0,1973,150,98,99,99
+226,tt1427833,Ananda,98,7.4,24,0,1986,150,0,2,5
+227,tt1435456,Andavan Kattalai,98,7.1,18,0,1964,150,98,99,99
+228,tt1440167,Engirundho Vandhaal,imdbDisplay,6.7,10,0,1970,153,98,99,99
+229,tt1479670,Arasu,imdbDisplay,5.6,55,0,2003,164,2,99,99
+230,tt1496025,Pathala Ulagam 4,imdbDisplay,6.4,145498,0,2012,88,0,3,13
+231,tt1496872,S.M.S,98,7,1260,0,2009,138,6,2,5
+232,tt1501298,Katradhu Tamil,98,8.4,2414,0,2007,147,2,14,99
+237,tt1503130,Kungumapoovum Konjumpuravum,98,6.5,40,0,2009,139,2,99,99
+238,tt1503144,Muththirai,98,5.2,31,0,2009,132,0,8,99
+240,tt1503167,Thamirabarani,98,5.9,258,0,2007,145,0,2,99
+241,tt1503184,Vamanan,98,4.5,129,0,2009,146,0,8,99
+242,tt1507325,Machakaran,98,4.9,28,0,2007,150,0,99,99
+243,tt1509832,Vazhthukkal,working,4.5,41,0,2008,151,2,99,99
+244,tt1512888,Aayirathil Oruvan,imdbDisplay,7.8,3595,0,2010,183,0,1,99
+245,tt1538460,Ayudha Poojai,imdbDisplay,6.2,22,0,2000,137,0,7,2
+246,tt1560613,Aval Peyar Thamizharasi,working,6.5,55,0,2009,135,6,99,99
+247,tt1570732,Vettaikaaran,imdbDisplay,4.7,3376,0,2009,166,0,2,8
+248,tt1578733,Mukhaputa,imdbDisplay,6,6,0,2010,112,2,10,99
+249,tt1582584,Gandhipuram,alternative,5.4,283,0,2010,161,0,6,2
+250,tt1582597,Sathyam,98,5.1,181,0,2008,137,0,2,99
+251,tt1601791,8 am Number Veedu,imdbDisplay,5.3,34,0,2009,150,13,99,99
+252,tt1604179,Rajakaali Amman,imdbDisplay,4.1,21,0,2000,150,2,3,8
+253,tt1609168,V.T.V.,98,8,4778,0,2010,157,2,5,99
+255,tt1612611,Bommayi 2,imdbDisplay,3.1,483,0,2010,110,2,13,14
+256,tt1613110,Raja Rani,working,5.5,308,0,2009,150,6,5,99
+257,tt1627942,Cōtaṉaiyil peṇkaḷ,98,6.8,678,0,2010,118,6,2,5
+258,tt1649435,Vinayaka,imdbDisplay,7.1,74,0,2008,133,6,5,99
+259,tt1664809,Ratha Sarithiram,98,7.6,3887,0,2010,125,0,16,7
+260,tt1727535,Ratha Sarithiram,98,6.4,2468,0,2010,135,0,16,7
+261,tt1735932,Va,98,6.4,344,0,2010,130,6,99,99
+262,tt1745863,Padhinaitham nootrandu uraivaal,98,7,1770,0,2011,150,0,2,99
+263,tt1758666,Jaisurya,98,4,15,0,2004,150,0,7,2
+264,tt1784552,Nandhalala,working,7.4,508,0,2010,127,2,99,99
+265,tt1796580,Eraaa,working,7.8,43,0,2010,150,13,14,8
+266,tt1810731,Vaanam Namadhe,working,5.4,38,0,2011,150,5,99,99
+269,tt1813225,Chikku Bhukku,98,4.1,157,0,2010,139,5,99,99
+270,tt1821478,Kaavalan,imdbDisplay,6.7,4478,0,2011,155,0,2,5
+271,tt1841504,Ambuli 3D,98,5.4,216,0,2012,139,0,2,4
+272,tt1927056,Ilaignan,working,4.6,13,0,2010,126,0,2,99
+273,tt1948150,Singam tamil,98,6.8,14186,0,2011,143,0,2,99
+274,tt1954220,Aanmai Thavarel,98,7,53,0,2011,135,7,5,8
+275,tt1954481,Namma Gramam,98,6.2,6,0,2014,100,2,10,99
+276,tt2002868,Yamadu,working,6.7,2905,0,2015,154,0,5,8
+277,tt2022587,Vetri Kodi Kattu,imdbDisplay,7.1,180,0,2000,150,6,2,5
+278,tt2034026,Muni - 2,working,6.5,1416,0,2011,171,0,6,13
+280,tt2041424,Moscowin Kavery,working,4.6,43,0,2010,97,5,99,99
+281,tt2065924,Engaeyum Eppothum,alternative,7.9,1737,0,2011,138,6,2,10
+282,tt2088847,Sridhar,alternative,6.6,1062,0,2011,130,5,99,99
+283,tt2133300,Osthe,98,3.5,605,0,2011,150,0,99,99
+284,tt2147999,Shivam,alternative,9.1,2494,0,2011,22,0,2,3
+285,tt2156030,Ayynoorum Ayynthum,imdbDisplay,6,6,0,2012,120,0,2,5
+286,tt2181931,Aangilam Vaangilam,alternative,7.8,33397,0,2012,134,6,2,10
+287,tt2198161,Anandam Anandame,alternative,7.5,5248,0,2013,159,6,2,10
+288,tt2211173,Mahadeera,98,5.6,6548,0,2014,165,0,8,99
+289,tt2258337,Naan Ee,imdbDisplay,7.7,21271,0,2012,145,0,6,3
+290,tt2262126,Kalakalappu @ Masala Cafe,alternative,6.8,1069,0,2012,135,6,99,99
+292,tt2287973,Ragalai,alternative,4.4,2396,0,2012,143,0,99,99
+293,tt2334879,White House Vettai,imdbDisplay,6.4,205562,0,2013,131,0,2,8
+294,tt2359810,Ambikapathy,alternative,7.6,29388,0,2013,140,2,5,99
+295,tt2370244,Aasu Raja Rani Jackie Matrum Joker,alternative,5.2,81,0,2013,146,6,99,99
+296,tt2418644,திரைப்படத்தை சோதிக்கிறது,imdbDisplay,7.3,84,0,2010,123,1,12,16
+297,tt2448852,Yakshi - Faithfully Yours,imdbDisplay,3.3,28,0,2012,90,13,5,4
+298,tt2520342,Sir Vanthara,alternative,4.8,380,0,2012,137,2,5,99
+299,tt2555958,Aarambam,98,7,8555,0,2013,157,0,2,14
+300,tt2562162,Ivan Veramathiri,working,6,294,0,2013,150,0,8,99
+301,tt2575614,Neeya Naana,imdbDisplay,7.9,14,0,2006,90,60,99,99
+302,tt2613012,Tamil Padam,98,7.3,801,0,2010,160,6,99,99
+303,tt2631186,Baahubali: The Beginning,imdbDisplay,8,102224,0,2015,159,0,2,99
+304,tt2654480,Yevanda,alternative,6.1,1061,0,2013,145,0,6,99
+305,tt2726796,Junglee Sherni,alternative,6,10,0,2001,150,0,1,2
+306,tt2778412,Kavasam,working,6.7,124,0,2010,136,14,8,99
+307,tt2793930,Mariyan,working,7.1,2862,0,2013,150,1,2,5
+308,tt2905674,Jurassic Avatar,alternative,3.3,1770,0,2015,88,0,1,6
+309,tt2938702,Vana Yuddham,imdbDisplay,7,134,0,2013,171,16,7,8
+310,tt2939898,Nee Enge En Anbe,alternative,5.6,203,0,2014,145,8,99,99
+311,tt3039362,Manjapai,working,6.2,302,0,2014,130,0,6,2
+312,tt3114346,555,alternative,5.6,332,0,2013,147,0,99,99
+313,tt3161758,Malini 22 Palayamkottai,98,5.2,91,0,2013,131,2,8,99
+314,tt3185772,Onaayum Aattukkuttiyum,alternative,8.2,2321,0,2013,141,0,7,8
+315,tt3197766,Nizhalyutham,alternative,6.7,6028,0,2015,120,0,1,7
+316,tt3232156,Pandianadu,working,7.2,1217,0,2013,144,0,99,99
+317,tt3232316,6 Melugu Vathigal,imdbDisplay,7,168,0,2013,129,8,99,99
+319,tt3311586,Mandira Kani,98,5.9,7,0,2013,150,13,99,99
+320,tt3329246,Pizza 2: The Villa,working,6.4,552,0,2013,102,13,8,99
+321,tt3421036,Thirumanam Enum Nikkah,working,5.1,287,0,2014,133,5,99,99
+322,tt3540016,Mudinja Ivana Pudi,imdbDisplay,6.6,1028,0,2016,162,0,2,8
+323,tt3557988,Bhooloham,working,5.8,671,0,2015,143,0,99,99
+324,tt3566718,Valeba Raja,98,4.2,64,0,2016,119,6,99,99
+325,tt3638722,En Magan Magizhvan,working,7.8,19,0,2019,106,2,10,11
+326,tt3646264,Jagajala Pujabala Thenaliraman,98,5.3,247,0,2014,142,6,17,99
+327,tt3681442,Mundasupatti,imdbDisplay,7.6,1190,0,2014,148,6,2,5
+328,tt3725026,Muni 3: Kanchana 2,98,5.5,1374,0,2015,166,6,13,99
+329,tt3763980,Karka kasadara,imdbDisplay,3.5,11,0,2005,140,2,99,99
+330,tt3822410,Sandamarudham,working,4.3,81,0,2015,149,0,8,99
+331,tt3885724,Meaghamann,alternative,6.8,537,0,2014,139,0,2,8
+332,tt3911870,Iniya iru Malargal,imdbDisplay,3.7,932,0,2014,20,6,2,5
+333,tt3973410,Kaaka Muttai,98,8.4,5530,0,2014,91,6,2,99
+334,tt3982482,Tamizhuku En Ondrai Azhuthavum,imdbDisplay,7,867,0,2015,141,6,4,8
+335,tt4047104,Naalo Okadu,98,7.8,1493,0,2015,136,8,99,99
+336,tt4271820,O Kadhal Kanmani,98,7.4,4853,0,2015,139,5,99,99
+337,tt4315542,Thunechal,98,3.2,9,0,2010,115,0,99,99
+338,tt4322022,Eesan,imdbDisplay,6.6,89,0,2010,164,2,99,99
+339,tt4324048,Sidhu +2 1st Attempt,working,4.1,22,0,2010,143,5,99,99
+341,tt4328798,Massu Engira Maasilamani,alternative,6,3589,0,2015,151,0,6,13
+343,tt4435282,Yagavarayinum Naa Kaakka,98,6.5,477,0,2015,151,8,99,99
+344,tt4439194,Uyire Uyire,98,5.1,21,0,2016,150,2,5,99
+345,tt4445948,Urumeen,working,4.7,192,0,2015,140,0,3,8
+346,tt4507090,Ennai Thalatta Varuvala,imdbDisplay,5.9,54,0,2003,123,0,5,99
+347,tt4526630,Jumbulingam 3D,98,5.5,8,0,2016,150,1,6,2
+350,tt4568328,Puli kōṭpāṭu,98,7.2,622,0,2016,107,1,6,2
+351,tt4727512,Selvandhan,alternative,7.5,11098,0,2015,158,0,2,99
+352,tt4762826,Inimey Ippadithan,98,5.5,273,0,2015,134,6,5,99
+353,tt4849438,Baahubali: The Conclusion,working,8.2,74576,0,2017,167,0,2,99
+354,tt4901338,Sakalakalavallavan Appatakkar,alternative,3.1,337,0,2015,150,0,6,99
+355,tt4937812,Thoonga Vanam,98,7,1915,0,2015,128,0,7,8
+357,tt4958666,Yengalai Pol Yaarum Illai,alternative,5.1,794,0,2015,170,0,6,5
+358,tt4959148,Dhum,imdbDisplay,3.7,27,0,2003,150,0,99,99
+359,tt4959326,Inji Iduppazhagi,alternative,5.4,595,0,2015,125,6,5,99
+360,tt4960754,Adhisayam,working,5.6,148,0,2003,138,0,2,99
+362,tt4974356,Surya Kavasam,alternative,3.7,565,0,2015,130,0,3,99
+363,tt4981012,Valla Desam,imdbDisplay,8.3,15,0,2017,133,0,99,99
+364,tt5039054,Thozha,imdbDisplay,8,4200,0,2016,158,6,2,99
+365,tt5124096,Thagamagan,imdbDisplay,6,1802,0,2015,122,0,2,5
+366,tt5254636,Kanavu Variyam,imdbDisplay,6.7,132,0,2017,98,2,10,99
+367,tt5285050,Haiku,working,7.5,1125,0,2015,127,2,10,99
+368,tt5310090,Irudhi Suttru,imdbDisplay,7.6,11294,0,2016,109,0,2,15
+369,tt5323298,Naagini,alternative,3.3,1275,0,2015,60,2,3,14
+370,tt5323640,Si3,working,6.2,5394,0,2017,155,0,8,99
+375,tt5371168,Pakkiri,alternative,6.9,6291,0,2018,92,1,6,2
+376,tt5543690,Oru Melliya Kodu,98,5.7,143,0,2016,125,0,14,8
+377,tt5556110,Pugal,98,5.5,161,0,2016,126,0,99,99
+378,tt5632164,Villathi Villain Veerapan,alternative,5.3,690,0,2016,125,0,16,7
+379,tt5698088,Pambhu Sattai,98,6.2,133,0,2017,140,0,99,99
+380,tt5756242,Marudhu,alternative,5.2,279,0,2016,146,0,2,99
+382,tt5782230,YAAGAM,98,6.4,49,0,2018,137,3,99,99
+383,tt5815940,Thiruppu Munai,alternative,7.1,1739,0,2016,144,14,5,8
+384,tt5833252,Muthina Kathirikai,imdbDisplay,5.5,73,0,2016,131,6,2,99
+385,tt5849126,Raja Mandhiri,98,7.1,72,0,2016,128,6,2,99
+386,tt5954088,Commando 2: The Black Money Trail,alternative,5.3,2873,0,2017,144,0,8,99
+387,tt5958304,Wagah,working,3.4,173,0,2016,122,0,2,99
+388,tt6091462,Padaiveeran,imdbDisplay,6.2,137,0,2018,130,2,99,99
+389,tt6114940,Devi,imdbDisplay,6.2,904,0,2016,126,6,13,99
+390,tt6131328,Aangila Padam,imdbDisplay,1.4,30,0,2017,126,6,99,99
+391,tt6146894,Enga Amma Rani,working,6.2,34,0,2017,150,0,99,99
+392,tt6182372,Akilandakodi Brahmandanayagan,alternative,7.2,230,0,2017,140,16,3,99
+393,tt6223492,Thiraikku Varadha Kathai,alternative,3,15,0,2016,132,13,8,99
+394,tt6237966,Thaana Serndha Koottam,working,6.7,4961,0,2018,138,0,6,7
+398,tt6264404,Deepavali Thuppakki,working,5.3,27,0,2016,164,6,99,99
+399,tt6299040,Ghazi,alternative,7.6,11830,0,2017,116,0,8,9
+400,tt6449478,Indiralohathil Na Azhagappan,working,7.3,10,0,2008,150,6,99,99
+401,tt6485666,Mersal,imdbDisplay,7.6,24241,0,2017,172,0,8,99
+403,tt6492958,Yenda Nerathilum,98,4.8,13,0,2017,112,13,99,99
+404,tt6539142,Kannadi Pookal,imdbDisplay,6.7,9,0,2005,147,2,99,99
+405,tt6567406,Muthuraamalingam,98,1.6,184,0,2017,137,0,2,99
+406,tt6568614,Kalam Vellum,98,6,8,0,1970,127,98,99,99
+407,tt6586992,Solli Vidava,imdbDisplay,6,34,0,2018,150,5,99,99
+408,tt6723182,Shivalinga,working,4.7,395,0,2017,156,13,99,99
+409,tt6734886,Pa Paandi,98,7.5,1270,0,2017,125,0,2,10
+410,tt6735034,AAA,98,2.3,551,0,2017,160,0,99,99
+411,tt6760704,Brindhaavanam,98,6.8,157,0,2017,170,2,99,99
+412,tt6836936,Saaho,imdbDisplay,5.2,15514,0,2019,170,0,8,99
+413,tt6863784,Saamy Square,alternative,4.5,1177,0,2018,156,0,99,99
+415,tt6878378,Thala 57,working,5.6,10585,0,2017,149,0,8,99
+416,tt7010156,Maragatha Naanayam,98,7,1215,0,2017,150,1,6,3
+417,tt7019812,VIP 2,alternative,5.4,1937,0,2017,128,0,6,99
+418,tt7023500,Nenjil Thunivirundhal,98,5.5,192,0,2017,133,0,2,99
+420,tt7055824,Chennai2Singapore,imdbDisplay,6,146,0,2017,122,6,5,99
+421,tt7060344,ராட்சசன்,imdbDisplay,8.7,23341,0,2018,170,0,7,8
+422,tt7060460,Dheeran Athigaram Ondru,imdbDisplay,8.2,9916,0,2017,157,0,7,8
+423,tt7160938,Team 5,alternative,4.3,68,0,2017,101,1,15,99
+424,tt7201238,Thappu Thanda,imdbDisplay,6.2,45,0,2017,146,7,99,99
+425,tt7235930,Kaalakkoothu,imdbDisplay,5.8,75,0,2018,122,0,99,99
+426,tt7246718,Subedar Joginder Singh,imdbDisplay,7,341,0,2018,139,0,16,2
+427,tt7249854,Naan Aanaiyittaal,alternative,5.8,1215,0,2017,153,0,8,99
+428,tt7249874,Gentleman Sathya,alternative,5.9,805,0,2017,145,0,8,99
+429,tt7286456,Joker,imdbDisplay,8.5,919937,0,2019,122,7,2,8
+430,tt7329602,Thamizh Padam 2.0,imdbDisplay,6.5,1329,0,2018,143,6,99,99
+431,tt7380284,Yaar Ivan,imdbDisplay,5.8,51,0,2017,125,8,99,99
+433,tt7465992,Nadigaiyar Thilagam,alternative,8.5,9607,0,2018,177,16,2,99
+434,tt7471004,Aval,alternative,6.8,1996,0,2017,137,13,99,99
+435,tt7483318,Kalakalappu 2,imdbDisplay,5,592,0,2018,154,6,2,99
+436,tt7510220,Iruttu Araiyil Murattu Kuththu,imdbDisplay,4.2,747,0,2018,119,13,99,99
+437,tt7549168,Billa Paandi,98,4.2,155,0,2018,140,2,99,99
+438,tt7695522,Diya,imdbDisplay,5.7,447,0,2018,122,2,13,8
+439,tt7720254,Jaane Kyun De Yaaron,imdbDisplay,4.8,38,0,2018,131,2,99,99
+440,tt7725626,Visvasam,98,6.7,6242,0,2019,153,0,2,99
+443,tt7738594,Naachiyaar,imdbDisplay,6.8,791,0,2018,100,0,2,8
+444,tt7852910,Madura Veeran,imdbDisplay,6.3,74,0,2018,121,0,2,99
+445,tt7853282,Oru Kuppai Kathai,imdbDisplay,6.5,249,0,2018,135,2,99,99
+446,tt7892050,Chekka Chivantha Vaanam,imdbDisplay,7.3,5354,0,2018,146,0,7,2
+447,tt7896266,Maraithiravu,imdbDisplay,7.7,13,0,2019,7,18,8,99
+448,tt7968456,Munirathna Kurukshetra,alternative,6.9,991,0,2019,185,17,9,99
+449,tt8011328,Seemaraja,alternative,4.4,1448,0,2018,158,0,2,99
+450,tt8011334,Manusanaa Nee,98,6,29,0,2018,132,2,8,99
+453,tt8011348,Gorrilla,98,4.5,256,0,2019,128,6,99,99
+454,tt8042126,Jagajala Killadi,98,8.7,6,0,2018,150,6,99,99
+455,tt8268916,90ml,98,3.3,473,0,2019,120,6,99,99
+456,tt8517272,Ally,alternative,5.6,257,0,2019,120,2,8,99
+457,tt8526010,Sinamkol,98,8.3,17,0,2020,121,2,99,99
+458,tt9260636,Bigil,imdbDisplay,6.7,10897,0,2019,179,0,2,15
+459,tt9605894,Silence,imdbDisplay,3.8,2444,0,2020,120,13,14,8
